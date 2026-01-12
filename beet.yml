@@ -1,0 +1,12 @@
+name: Survival Flight
+description: A datapack that adds flight mechanics to survival mode.
+
+require:
+  - bolt
+
+data_pack:
+  load: src
+
+output: build
+pipeline:
+  - mecha

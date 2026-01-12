@@ -1,0 +1,1 @@
+scoreboard objectives add fly_timer dummy
